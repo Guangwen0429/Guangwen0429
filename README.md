@@ -4,12 +4,12 @@ CS @ UW-Madison (B.S. expected 2026) · Incoming M.S. student at UCLA (Fall 2026
 
 ## Research Interests
 
-Reservoir Computing, Large Language Models, and Retrieval-Augmented Generation.
+Large Language Models, Retrieval-Augmented Generation, and Reservoir Computing,.
 
 ## Publications
 
-- **Physica A** (2025, first author): Synchronization of reservoir computers via transmitting invisible signals.
-- **Applied Physics Letters** (2025): Design of SAW resonators based on a series neural network.
+- **Physica A** (2025, first author): [Synchronization of reservoir computers via transmitting invisible signals](https://doi.org/10.1016/j.physa.2025.131076).
+- **Applied Physics Letters** (2025, co-author): [Design of surface acoustic wave resonators based on a series neural network](https://doi.org/10.1063/5.0251374).
 
 ## Current Projects
 
