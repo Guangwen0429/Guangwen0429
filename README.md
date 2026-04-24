@@ -1,16 +1,17 @@
-## Hi there 👋
+# 熊广文 / Guangwen Xiong
 
-<!--
-**Guangwen0429/Guangwen0429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ UW-Madison (B.S. expected 2026) · Incoming M.S. student at UCLA (Fall 2026)
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reservoir Computing, Large Language Models, and Retrieval-Augmented Generation.
+
+## Publications
+
+- **Physica A** (2025, first author): Synchronization of reservoir computers via transmitting invisible signals.
+- **Applied Physics Letters** (2025): Design of SAW resonators based on a series neural network.
+
+## Current Projects
+
+- **[paper-rag](https://github.com/Guangwen0429/paper-rag)**: Citation-grounded academic QA system with hybrid retrieval and reranker.
+- **pytorch-learning**: Self-study PyTorch implementations, including MNIST MLP and CIFAR-10 CNN.
