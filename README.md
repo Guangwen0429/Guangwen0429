@@ -1,10 +1,10 @@
 # 熊广文 / Guangwen Xiong
 
-CS @ UW-Madison (B.S. expected 2026) · Incoming M.S. student at UCLA (Fall 2026)
+CS @ UW–Madison (B.S. expected 2026) · Incoming M.S. student at UCLA (Fall 2026)
 
 ## Research Interests
 
-Large Language Models, Retrieval-Augmented Generation, and Reservoir Computing,.
+Large Language Models, Retrieval-Augmented Generation, and Reservoir Computing.
 
 ## Publications
 
@@ -13,5 +13,5 @@ Large Language Models, Retrieval-Augmented Generation, and Reservoir Computing,.
 
 ## Current Projects
 
-- **[paper-rag](https://github.com/Guangwen0429/paper-rag)**: Citation-grounded academic QA system with hybrid retrieval and reranker.
-- **pytorch-learning**: Self-study PyTorch implementations, including MNIST MLP and CIFAR-10 CNN.
+- **[paper-rag](https://github.com/Guangwen0429/paper-rag)**: Citation-grounded academic QA system with hybrid retrieval and reranking.
+- **[nn-from-scratch](https://github.com/Guangwen0429/nn-from-scratch)**: From-scratch PyTorch implementations, from tensor basics to CIFAR-10 CNN training.
