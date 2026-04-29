@@ -14,4 +14,4 @@ Large Language Models, Retrieval-Augmented Generation, and Reservoir Computing.
 ## Current Projects
 
 - **[paper-rag](https://github.com/Guangwen0429/paper-rag)**: Citation-grounded academic QA system with hybrid retrieval and reranking.
-- **[nn-from-scratch](https://github.com/Guangwen0429/nn-from-scratch)**: From-scratch PyTorch implementations, from tensor basics to CIFAR-10 CNN training.
+
